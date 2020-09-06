@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Welcome!</h1>
+    <h1>Welcome to the future!</h1>
     <NLink to="/about">
       About Page
     </NLink>
